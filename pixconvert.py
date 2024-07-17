@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-# Released into the public domain 
-
-# TODO:
-
 from struct import unpack
 from PIL import Image
 from argparse import ArgumentParser
